@@ -9,7 +9,11 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.*;
-
+/*
+단위 테스트
+잘된 테스트 케이스는 단위별로 작게 테스트를 가능하다
+보통 좋은 테스트를 진행함은 단위 테스트를
+ */
 class MemberServiceTest {
 
     MemberService memberService;
