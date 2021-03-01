@@ -11,6 +11,7 @@ public class SpringConfig {
 
     //private final DataSource dataSource;
     //private EntityManager em;
+    //자동으로 spring data jpa 를 주입시켜준다
     private final MemberRepository memberRepository;
 
     @Autowired
